@@ -1,0 +1,16 @@
+.atendido {
+    background-color: green;
+}
+
+.livre {
+    background-color: yellow;
+}
+
+.não-atende {
+    background-color: red;
+}
+
+.cell {
+    background-color: #000000;
+    color: #ffffff;
+}
